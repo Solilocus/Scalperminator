@@ -1,0 +1,29 @@
+{
+    "RefreshTime": "90",
+    "SettingWebsites": [
+        {
+            "Url": "https://www.manor.ch/fr/p/10000583778",
+            "Element": "js-scroll-to-accordion",
+            "ElementValue": "Indisponible en ligne",
+            "ElementType": "Class"
+        },
+        {
+            "Url": "https://www.fr.fnac.ch/Console-Sony-PS5-Edition-Standard/a14119956",
+            "Element": "f-buyBox-availabilityStatus-unavailable",
+            "ElementValue": "Indisponible en ligne",
+            "ElementType": "Class"
+        },
+        {
+            "Url": "https://www.digitec.ch/en/s1/product/sony-playstation-5-de-fr-it-en-game-consoles-12664145",
+            "Element": "extended_availability_availabilityText__1Mb57",
+            "ElementValue": "Currently out of stock and no delivery date available.",
+            "ElementType": "Class"
+        },
+        {
+            "Url": "https://www.mediamarkt.ch/fr/product/_sony-ps-playstation-5-2018096.html",
+            "Element": "offline-text",
+            "ElementValue": "ARTICLE TEMPORAIREMENT PAS EN STOCK",
+            "ElementType": "Class"
+        }
+    ]
+}
